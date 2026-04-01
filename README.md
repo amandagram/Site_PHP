@@ -80,3 +80,7 @@ $password = "SUA_SENHA_AQUI";
 
 
 Este projeto foi desenvolvido para fins educacionais.
+
+
+<img width="1910" height="482" alt="image" src="https://github.com/user-attachments/assets/0d8034d3-334e-48eb-a3ef-6fd909800767" />
+
